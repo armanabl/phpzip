@@ -2,7 +2,7 @@
 #PHP zip Archive
 
 
-#Example
+# Example For Create Archive
 ```php
 $zip = new /armanabl/phpzip();
 $zip->first_string_to_archive_file = 'files';

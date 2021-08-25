@@ -13,5 +13,5 @@ $zip->create_archive("archive.zip", __DIR__."/data/files");
 # Example For Extract Archive
 ```php
 $zip = new /armanabl/phpzip();
-$zip->extract_archive("archive.zip", __DIR__."/data/files");
+$zip->extract_archive("archive.zip", __DIR__."/data");
 ```
